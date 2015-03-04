@@ -38,3 +38,30 @@
 > 飯
 
 * ホテルの高いが少ない料理、九州じゃんがら
+
+> 連絡手段
+
+>> 基本的には
+* Skype
+
+>> 開発が進んできたら、何かサービスにJOINしたら、以下も検討
+* [Slack](https://slack.com/)
+* いけてるUIで、多くのWeb会社の開発チャットツールとして使われている→使ったことあるか聞かれるレベル
+* コードを貼り付けると色が付いたり、そもそも開発に適した利用が可能
+* ホスティング可能
+
+```
+# Pricing Guide
+10,000 message
+searchable archive
+
+5 integrations
+
+Free native apps for iOS, Android & Mac Desktop
+
+Multi-Team Support
+```
+
+* [HipChat](https://www.atlassian.com/ja/software/hipchat)
+* Slackと同じようなもの
+* UIに関してはよりビジネス向きだといえる
