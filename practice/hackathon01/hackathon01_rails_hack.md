@@ -12,5 +12,10 @@
   * [Gaddict](https://github.com/Gaddict)
     * テーマ：
 
+##持ち物
+* mac book pro
+* 充電ケーブルなど
+* プレゼン資料
+
 ##内容
 
