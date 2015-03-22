@@ -8,9 +8,9 @@
 * 日程：2015/03/22/sat
 * LT : 
   * [Pollseed](https://github.com/pollseed)
-    * テーマ：
+    * テーマ： Rubyの文法初心者用
   * [Gaddict](https://github.com/Gaddict)
-    * テーマ：
+    * テーマ： GTD
 
 ##持ち物
 * mac book pro
