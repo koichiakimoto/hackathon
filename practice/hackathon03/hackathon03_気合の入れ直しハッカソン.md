@@ -8,7 +8,7 @@
 * 日程：2015/05/16/sat
 * LT : 
   * [Pollseed](https://github.com/pollseed)
-    * テーマ： [ほげ](http://www.slideshare.net/pollseed/)
+    * テーマ： [DIについて](http://www.slideshare.net/pollseed/)
   * [Gaddict](https://github.com/Gaddict)
     * テーマ： [超初心者向けRails開発環境の作り方](http://www.slideshare.net/Gaddict/)
 
