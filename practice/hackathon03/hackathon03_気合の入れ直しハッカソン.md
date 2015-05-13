@@ -10,7 +10,7 @@
   * [Pollseed](https://github.com/pollseed)
     * テーマ： [ほげ](http://www.slideshare.net/pollseed/)
   * [Gaddict](https://github.com/Gaddict)
-    * テーマ： [ふが](http://www.slideshare.net/Gaddict/)
+    * テーマ： [超初心者向けRails開発環境の作り方](http://www.slideshare.net/Gaddict/)
 
 ##持ち物
 * mac book pro
