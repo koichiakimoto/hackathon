@@ -10,7 +10,7 @@
   * [Pollseed](https://github.com/pollseed)
     * テーマ： [DIについて](http://www.slideshare.net/pollseed/)
   * [Gaddict](https://github.com/Gaddict)
-    * テーマ： [超初心者向けRails開発環境の作り方](http://www.slideshare.net/Gaddict/)
+    * テーマ： [無料でRedmineを使う方法](http://www.slideshare.net/Gaddict/redmine-48215467)
 
 ##持ち物
 * mac book pro
