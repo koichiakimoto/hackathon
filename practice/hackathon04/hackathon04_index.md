@@ -10,7 +10,7 @@
   * [Pollseed](https://github.com/pollseed)
     * テーマ： [LL言語について](http://www.slideshare.net/pollseed/)
   * [Gaddict](https://github.com/Gaddict)
-    * テーマ： [HOGE](http://www.slideshare.net/Gaddict/)
+    * テーマ： [データ構造とアルゴリズム](http://www.slideshare.net/Gaddict/)
 
 ##持ち物
 * mac book pro
