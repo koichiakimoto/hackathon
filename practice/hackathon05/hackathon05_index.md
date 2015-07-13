@@ -5,7 +5,7 @@
 * [pollseed](https://github.com/pollseed)
 
 ##概要
-* 日程：2015/07/04/sat
+* 日程：2015/07/27/mon
 * LT : 
   * [Pollseed](https://github.com/pollseed)
     * テーマ： [](http://www.slideshare.net/pollseed/)
