@@ -8,7 +8,7 @@
 * 日程：2015/10/17/mon
 * LT : 
   * [Pollseed](https://github.com/pollseed)
-    * テーマ： [](http://www.slideshare.net/pollseed/)
+    * テーマ： [MySQL 初心者用テーブルチューニング](http://www.slideshare.net/pollseed/)
   * [Gaddict](https://github.com/Gaddict)
     * テーマ： [](http://www.slideshare.net/Gaddict/)
 
