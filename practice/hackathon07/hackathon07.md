@@ -8,7 +8,7 @@
 * 日程：2015/10/17/mon
 * LT : 
   * [Pollseed](https://github.com/pollseed)
-    * テーマ： [MySQL 初心者用テーブルチューニング](http://www.slideshare.net/pollseed/)
+    * テーマ： [MySQL 初心者用テーブルチューニング](http://www.slideshare.net/pollseed/ltdb)
     * 次回はAWSのデザパタでもやろうかなと画策中
   * [Gaddict](https://github.com/Gaddict)
     * テーマ： [](http://www.slideshare.net/Gaddict/)
