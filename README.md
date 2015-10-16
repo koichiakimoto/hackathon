@@ -4,9 +4,12 @@
 # 寄稿ルール
 ### ドメイン: springhackathon/hackathon
 #### ハッカソン自体の内容を記す: practice
-hackathon{連番}/hackathon{連番}_{内容}
-cf.) hackathon00/hackathon00_intro
+`{YYYY}/hackathon{連番}_{MMdd}`
+cf.) practice/2015/hackathon00_0401md
+
+#### 資料が必要な時にディレクトリを作成して置く
+`{YYYY}/hackathon01/hoge.txt`
 
 # ディレクトリ階層
-* paractice: ハッカソン活動内容
+* practice: ハッカソン活動内容
 * document: ドキュメントメモなど
