@@ -5,7 +5,7 @@
 * [pollseed](https://github.com/pollseed)
 
 ##概要
-* 日程：2015/10/17/mon
+* 日程：2015/10/17/sat
 * LT : 
   * [Pollseed](https://github.com/pollseed)
     * テーマ： [MySQL 初心者用テーブルチューニング](http://www.slideshare.net/pollseed/ltdb)
