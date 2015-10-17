@@ -1,4 +1,4 @@
-# #Hackathon v07まとめ
+# #Hackathon v08まとめ
 
 ##参加者
 * [Gaddict](https://github.com/Gaddict)
@@ -11,7 +11,8 @@
     * テーマ： [MySQL 初心者用テーブルチューニング](http://www.slideshare.net/pollseed/ltdb)
     * 次回はAWSのデザパタでもやろうかなと画策中
   * [Gaddict](https://github.com/Gaddict)
-    * テーマ： [](http://www.slideshare.net/Gaddict/)
+    * テーマ： [最新のSeo対策から コンテンツの質を考察する](http://www.slideshare.net/Gaddict/seo-54031935)
+    * 次回はElectronについて
 
 ##持ち物
 * mac book pro
@@ -19,5 +20,5 @@
 * プレゼン資料
 
 ##内容
-
-### 近いゴール
+* Node.jsの開発
+* SPAのテーマ決め
