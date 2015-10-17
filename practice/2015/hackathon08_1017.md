@@ -9,6 +9,7 @@
 * LT : 
   * [Pollseed](https://github.com/pollseed)
     * テーマ： [MySQL 初心者用テーブルチューニング](http://www.slideshare.net/pollseed/ltdb)
+    * Answer: https://github.com/pollseed/linux_setup/blob/master/src/hackathon/db/tuning_after.md
     * 次回はAWSのデザパタでもやろうかなと画策中
   * [Gaddict](https://github.com/Gaddict)
     * テーマ： [最新のSeo対策から コンテンツの質を考察する](http://www.slideshare.net/Gaddict/seo-54031935)
