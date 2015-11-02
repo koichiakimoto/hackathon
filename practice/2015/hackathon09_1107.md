@@ -5,10 +5,10 @@
 * [pollseed](https://github.com/pollseed)
 
 ##概要
-* 日程：2015/11/07/sat
+* 日程：2015/11/07/sat 15:00
 * LT : 
   * [Pollseed](https://github.com/pollseed)
-    * テーマ： [](http://www.slideshare.net/pollseed/)
+    * テーマ： [Java・基本デザインパターンについて](http://www.slideshare.net/pollseed/)
   * [Gaddict](https://github.com/Gaddict)
     * テーマ： [](http://www.slideshare.net/Gaddict/)
     * 次回はElectronについて
