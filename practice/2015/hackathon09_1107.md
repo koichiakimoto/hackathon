@@ -3,6 +3,7 @@
 ##参加者
 * [Gaddict](https://github.com/Gaddict)
 * [pollseed](https://github.com/pollseed)
+* [kouares](https://github.com/kouares)
 
 ##概要
 * 日程：2015/11/07/sat 15:00
