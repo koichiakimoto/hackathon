@@ -10,8 +10,7 @@
   * [Pollseed](https://github.com/pollseed)
     * テーマ： [Java・基本デザインパターンについて](http://www.slideshare.net/pollseed/)
   * [Gaddict](https://github.com/Gaddict)
-    * テーマ： [](http://www.slideshare.net/Gaddict/)
-    * 次回はElectronについて
+    * テーマ： [30分でHelloElectron](http://www.slideshare.net/Gaddict/30hello-electron)
 
 ##持ち物
 * mac book pro
