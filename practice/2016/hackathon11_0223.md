@@ -11,7 +11,7 @@
 * LT : 
 ~~
   * [Pollseed](https://github.com/pollseed)
-    * テーマ： []()
+    * テーマ： [DataVisualを知るための最低限のD3]()
   * [Gaddict](https://github.com/Gaddict)
     * テーマ： [Nodejsの非同期処理]()
   * [kouares](https://github.com/kouares)
