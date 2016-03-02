@@ -18,6 +18,9 @@
     * テーマ： []()
 ~~
 
+## TODO
+* 各自のMac端末にAndroid-Kotlin環境を突っ込んで`Hello, WOrld`が動くようにする
+
 ## 持ち物
 * Android端末(なるべく新しいバージョンだと望ましい)
 * mac book pro
