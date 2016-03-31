@@ -11,7 +11,7 @@
 * LT : 
 ~~
   * [Pollseed](https://github.com/pollseed)
-    * テーマ： [Swift]()
+    * テーマ： [アジャイル開発]()
   * [Gaddict](https://github.com/Gaddict)
     * テーマ： [Phantomjsとcheerioでスクレイピング]()
   * [kouares](https://github.com/kouares)
