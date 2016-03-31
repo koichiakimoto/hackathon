@@ -30,3 +30,4 @@
 ## 内容
 * LT
 * Pollseed: Swift
+* Gaddict: Nodejsで安全で効率的なスクレイピング
