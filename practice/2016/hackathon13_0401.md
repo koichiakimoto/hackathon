@@ -6,8 +6,8 @@
 * [kouares](https://github.com/kouares)
 
 ## 概要
-* 日程：2016/04/01/fri 19:00 - 22:00
-* 場所：虎ノ門 スターバックス
+* 日程：2016/04/01/fri 18:00 - 22:00
+* 場所：Google Calendar 参照
 * LT : 
 ~~
   * [Pollseed](https://github.com/pollseed)
