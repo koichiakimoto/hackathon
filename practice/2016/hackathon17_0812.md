@@ -34,4 +34,4 @@
 * pollseed: 
 * Gaddict: 
 * sin: Swift,Swift FW
-* kouares: 
+* kouares: Kotlin, Android 
