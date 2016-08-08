@@ -33,5 +33,5 @@
 * LT
 * pollseed: 
 * Gaddict: 
-* sin: 
+* sin: Swift,Swift FW
 * kouares: 
