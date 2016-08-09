@@ -32,6 +32,6 @@
 * Investment(stock etc.)
 * LT
 * pollseed: 
-* Gaddict: 
+* Gaddict: TensorFlow
 * sin: Swift,Swift FW
 * kouares: Kotlin, Android 
