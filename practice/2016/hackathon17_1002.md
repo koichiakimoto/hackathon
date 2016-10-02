@@ -7,7 +7,7 @@
 * [kouares](https://github.com/kouares)
 
 ## 概要
-* 日程：2016/10/02/fri 14:30 - 21:30
+* 日程：2016/10/02/sum 14:30 - 21:30
 * 場所：Google Calendar 参照
 * LT : 
 ~~
