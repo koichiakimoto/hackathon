@@ -15,7 +15,7 @@
   * [Pollseed](https://github.com/pollseed)
     * テーマ： []()
   * [Gaddict](https://github.com/Gaddict)
-    * テーマ： [SlideShipでスライドを作ってみた](https://slideship.com/presentations/H2RTHbshQuwZKBfqHPLfX1)
+    * テーマ： [BashとSQLのマニアックテクニック](https://slideship.com/presentations/H2RTHbshQuwZKBfqHPLfX1)
   * [sin](https://github.com/ogasawaraShinnosuke)
     * テーマ： []()
   * [kouares](https://github.com/kouares)
