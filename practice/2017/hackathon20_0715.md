@@ -15,9 +15,9 @@
   * [Pollseed](https://github.com/pollseed)
     * テーマ： []()
   * [Gaddict](https://github.com/Gaddict)
-    * テーマ： []()
+    * テーマ： [BashとSQLのマニアックテクニック](https://slideship.com/presentations/H2RTHbshQuwZKBfqHPLfX1)
   * [sin](https://github.com/ogasawaraShinnosuke)
-    * テーマ： []()
+    * テーマ： [Rustを雑に紹介&ハンズオン](https://gitpitch.com/ogasawaraShinnosuke/slide-pitch)
   * [kouares](https://github.com/kouares)
     * テーマ： []()
 ~~
@@ -33,6 +33,6 @@
 * 情報技術共有
 * LT
 * pollseed: 
-* Gaddict: Crawling in Java
+* Gaddict: Python scraping
 * sin: Serverless, Rust
 * kouares: Kotlin
