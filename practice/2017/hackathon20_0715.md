@@ -17,7 +17,7 @@
   * [Gaddict](https://github.com/Gaddict)
     * テーマ： [BashとSQLのマニアックテクニック](https://slideship.com/presentations/H2RTHbshQuwZKBfqHPLfX1)
   * [sin](https://github.com/ogasawaraShinnosuke)
-    * テーマ： []()
+    * テーマ： [Rustを雑に紹介&ハンズオン](https://gitpitch.com/ogasawaraShinnosuke/slide-pitch)
   * [kouares](https://github.com/kouares)
     * テーマ： []()
 ~~
