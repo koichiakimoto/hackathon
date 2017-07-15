@@ -19,7 +19,7 @@
   * [sin](https://github.com/ogasawaraShinnosuke)
     * テーマ： [Rustを雑に紹介&ハンズオン](https://gitpitch.com/ogasawaraShinnosuke/slide-pitch)
   * [kouares](https://github.com/kouares)
-    * テーマ： []()
+    * テーマ： [Playframework scalaでサービスを開発して辛かったこと](https://gitpitch.com/kouares/git-pitch-slide)
 ~~
 
 ## TODO
