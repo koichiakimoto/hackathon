@@ -8,7 +8,7 @@
 * [man](???)
 
 ## 概要
-* 日程：2017/12/XX/sum 19:30 - 22:15
+* 日程：2017/12/04/sum 19:30 - 22:15
 * 場所：Google Calendar 参照
 * LT : 
   * [Pollseed](https://github.com/pollseed)
