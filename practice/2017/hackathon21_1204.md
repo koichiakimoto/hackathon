@@ -14,11 +14,11 @@
   * [Pollseed](https://github.com/pollseed)
      * テーマ： [a](a)
   * [Gaddict](https://github.com/Gaddict)
-     * テーマ： [BashとSQLのマニアックテクニック](https://slideship.com/presentations/H2RTHbshQuwZKBfqHPLfX1)
+     * テーマ： [機械学習](https://slideship.com/presentations/H2RTHbshQuwZKBfqHPLfX1)
   * [sin](https://github.com/ogasawaraShinnosuke)
-     * テーマ： []()
+     * テーマ： [メタプロ]()
   * [kouares](https://github.com/kouares)
-     * テーマ： [Playframework scalaでサービスを開発して辛かったこと](https://gitpitch.com/kouares/git-pitch-slide)
+     * テーマ： [Scala](https://gitpitch.com/kouares/git-pitch-slide)
 
 ## TODO
 * Wiki更新等
