@@ -2,8 +2,8 @@
 ハッカソン用のリポジトリです
 
 ## Private
-プライベートにしたいものはここに自分のディレクトリを掘って置いてもらえればOK
-- https://github.com/ogasawaraShinnosuke/creator
+プライベートにしたいものは自分のディレクトリに置いてもらえればOK
+- https://github.com/ogasawaraShinnosuke/creator/tree/master/hackathon/users
 
 # 寄稿ルール
 ### ドメイン: DreamHackers/hackathon
