@@ -1,6 +1,10 @@
 # hackathon
 ハッカソン用のリポジトリです
 
+## Private
+プライベートにしたいものはここに自分のディレクトリを掘って置いてもらえればOK
+- https://github.com/ogasawaraShinnosuke/creator
+
 # 寄稿ルール
 ### ドメイン: DreamHackers/hackathon
 #### ハッカソン自体の内容を記す: practice
