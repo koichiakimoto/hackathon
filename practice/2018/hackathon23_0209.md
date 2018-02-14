@@ -8,17 +8,15 @@
 * [man](???)
 
 ## 概要
-* 日程：2018/03/XX/sum 19:30 - 22:15
+* 日程：2018/02/09/sum 19:30 - 22:15
 * 場所：Google Calendar 参照
 * LT : 
   * [Pollseed](https://github.com/pollseed)
-     * テーマ： [a](a)
+     * テーマ： [](a)
   * [Gaddict](https://github.com/Gaddict)
      * テーマ： [機械学習](https://slideship.com/presentations/H2RTHbshQuwZKBfqHPLfX1)
   * [sin](https://github.com/ogasawaraShinnosuke)
      * テーマ： []()
-  * [kouares](https://github.com/kouares)
-     * テーマ： [Scala](https://gitpitch.com/kouares/git-pitch-slide)
 
 ## TODO
 * Wiki更新等
