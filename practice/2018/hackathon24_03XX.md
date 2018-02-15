@@ -5,26 +5,31 @@
 * [Gaddict](https://github.com/Gaddict)
 * [sin](https://github.com/ogasawaraShinnosuke)
 * [kouares](https://github.com/kouares)
+* [soha](https://github.com/soha)
 * [man](???)
 
 ## 概要
 * 日程：2018/03/XX/sum 19:30 - 22:15
-* 場所：Google Calendar 参照
+* 場所：Slackでお知らせ
 * LT : 
   * [Pollseed](https://github.com/pollseed)
-     * テーマ： [Infraのセキュリティ対策の比較再現デモ](a)
+     * テーマ： [a](a)
   * [Gaddict](https://github.com/Gaddict)
      * テーマ： [機械学習](https://slideship.com/presentations/H2RTHbshQuwZKBfqHPLfX1)
   * [sin](https://github.com/ogasawaraShinnosuke)
-     * テーマ： []()
+     * テーマ： [Infraのセキュリティ対策の比較再現デモ](a)
   * [kouares](https://github.com/kouares)
+     * テーマ： []()
+  * [soha](https://github.com/soha)
+     * テーマ： []()
 
 ## TODO
 * Wiki更新等
 
 ## 持ち物
 * PC
-* プレゼン資料
+* LT資料
+ * Privateなものは、 [こちら](https://github.com/ogasawaraShinnosuke/creator/tree/master/hackathon/users) の各自ディレクトリへ
 
 ## 内容
 * 情報技術共有
@@ -33,3 +38,4 @@
 * Gaddict: Python scraping
 * sin: ソフトウェアの開発
 * kouares: Kotlin
+* soha: 
