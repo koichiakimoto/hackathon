@@ -12,7 +12,7 @@
 * 場所：Google Calendar 参照
 * LT : 
   * [Pollseed](https://github.com/pollseed)
-     * テーマ： [](a)
+     * テーマ： [Infraのセキュリティ対策の比較再現デモ](a)
   * [Gaddict](https://github.com/Gaddict)
      * テーマ： [機械学習](https://slideship.com/presentations/H2RTHbshQuwZKBfqHPLfX1)
   * [sin](https://github.com/ogasawaraShinnosuke)
@@ -31,5 +31,5 @@
 * LT
 * pollseed: 
 * Gaddict: Python scraping
-* sin: 
+* sin: ソフトウェアの開発
 * kouares: Kotlin
