@@ -15,7 +15,7 @@
   * [Pollseed](https://github.com/pollseed)
     * テーマ： [a](a)
   * [Gaddict](https://github.com/Gaddict)
-    * テーマ： [手ぶら勤怠管理](https://github.com/gaddict)
+    * テーマ： [手ぶら勤怠管理](https://github.com/gaddict)
   * [sin](https://github.com/ogasawaraShinnosuke)
     * テーマ： [Infraのセキュリティ対策の比較再現デモ](a)
   * [kouares](https://github.com/kouares)
