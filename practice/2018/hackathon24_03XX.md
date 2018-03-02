@@ -13,15 +13,15 @@
 * 場所：Slackでお知らせ
 * LT : 
   * [Pollseed](https://github.com/pollseed)
-     * テーマ： [a](a)
+    * テーマ： [a](a)
   * [Gaddict](https://github.com/Gaddict)
-     * テーマ： [機械学習](https://slideship.com/presentations/H2RTHbshQuwZKBfqHPLfX1)
+    * テーマ： [手ぶら勤怠管理](https://github.com/gaddict)
   * [sin](https://github.com/ogasawaraShinnosuke)
-     * テーマ： [Infraのセキュリティ対策の比較再現デモ](a)
+    * テーマ： [Infraのセキュリティ対策の比較再現デモ](a)
   * [kouares](https://github.com/kouares)
-     * テーマ： []()
+    * テーマ： []()
   * [soha](https://github.com/soha)
-     * テーマ： []()
+    * テーマ： []()
 
 ## TODO
 * Wiki更新等
@@ -35,7 +35,7 @@
 * 情報技術共有
 * LT
 * pollseed: 
-* Gaddict: Python scraping
+* Gaddict: Python scraping node.js AWS
 * sin: ソフトウェアの開発
 * kouares: Kotlin
 * soha: 
