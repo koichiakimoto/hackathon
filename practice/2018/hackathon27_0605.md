@@ -15,7 +15,7 @@
   * [Pollseed](https://github.com/pollseed)
     * テーマ： [a](a)
   * [Gaddict](https://github.com/Gaddict)
-    * テーマ： [手ぶら勤怠管理](https://github.com/gaddict)
+    * テーマ： [DataRobot使ってみた](https://github.com/gaddict)
   * [sin](https://github.com/ogasawaraShinnosuke)
     * テーマ： [Ruby on Rails TDD](a)
   * [kouares](https://github.com/kouares)
@@ -36,7 +36,7 @@
 * LT
 * 輪読についてディスカッション（教科書，進めるペースについてなど）
 * pollseed: 
-* Gaddict: Python scraping node.js AWS
+* Gaddict: データサイエンティストを目指すには
 * sin: ソフトウェアの開発
 * kouares: Kotlin
 * soha: 
