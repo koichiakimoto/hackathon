@@ -9,7 +9,7 @@
 * [man](???)
 
 ## 概要
-* 日程：2018/5/15/tue 19:30 - 22:15
+* 日程：2018/5/15/tue 19:30 - 22:15 →リスケ
 * 場所：Slackでお知らせ
 * LT : 
   * [Pollseed](https://github.com/pollseed)
