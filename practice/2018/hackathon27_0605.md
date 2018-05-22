@@ -34,6 +34,7 @@
 ## 内容
 * 情報技術共有
 * LT
+* 輪読についてディスカッション（教科書，進めるペースについてなど）
 * pollseed: 
 * Gaddict: Python scraping node.js AWS
 * sin: ソフトウェアの開発
