@@ -15,7 +15,7 @@
   * [Pollseed](https://github.com/pollseed)
     * テーマ： [a](a)
   * [Gaddict](https://github.com/Gaddict)
-    * テーマ： [DataRobot使ってみた](https://github.com/gaddict)
+    * テーマ： [DataRobot使ってみた](https://github.com/gaddict)
   * [sin](https://github.com/ogasawaraShinnosuke)
     * テーマ： [Ruby on Rails TDD](a)
   * [kouares](https://github.com/kouares)
