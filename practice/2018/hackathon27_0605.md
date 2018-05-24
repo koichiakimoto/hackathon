@@ -17,7 +17,7 @@
   * [Gaddict](https://github.com/Gaddict)
     * テーマ： [DataRobot使ってみた](https://github.com/gaddict)
   * [sin](https://github.com/ogasawaraShinnosuke)
-    * テーマ： [Ruby on Rails TDD](a)
+    * テーマ： [Ruby missionary](a)
   * [kouares](https://github.com/kouares)
     * テーマ： []()
   * [soha](https://github.com/soha)
