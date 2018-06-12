@@ -9,7 +9,7 @@
 * [man](???)
 
 ## 概要
-* 日程：2018/6/5/tue 19:30 - 22:15
+* 日程：2018/6/13/tue 19:30 - 22:00
 * 場所：Slackでお知らせ
 * LT : 
   * [Pollseed](https://github.com/pollseed)
@@ -17,7 +17,7 @@
   * [Gaddict](https://github.com/Gaddict)
     * テーマ： [DataRobot使ってみた](https://github.com/gaddict)
   * [sin](https://github.com/ogasawaraShinnosuke)
-    * テーマ： [Ruby missionary](a)
+    * テーマ： [GemリリースしてみようHackathon](https://github.com/ogasawaraShinnosuke/inits/wiki/First-Step)
   * [kouares](https://github.com/kouares)
     * テーマ： []()
   * [soha](https://github.com/soha)
