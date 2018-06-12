@@ -21,7 +21,7 @@
   * [kouares](https://github.com/kouares)
     * テーマ： []()
   * [soha](https://github.com/soha)
-    * テーマ： []()
+    * テーマ： [scrapy使った話]()
 
 ## TODO
 * Wiki更新等
@@ -39,4 +39,4 @@
 * Gaddict: データサイエンティストを目指すには
 * sin: ソフトウェアの開発
 * kouares: Kotlin
-* soha: 
+* soha: スクレイピングフレームワーク
