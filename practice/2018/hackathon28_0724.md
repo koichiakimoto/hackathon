@@ -17,7 +17,7 @@
   * [Gaddict](https://github.com/Gaddict)
     * テーマ： [Puppeteerでスクレイピング](https://github.com/gaddict)
   * [sin](https://github.com/ogasawaraShinnosuke)
-    * テーマ： []()
+    * テーマ： [ニューラルネットワーク for Ruby](https://github.com/ogasawaraShinnosuke/deep-rubier)
   * [kouares](https://github.com/kouares)
     * テーマ： []()
   * [soha](https://github.com/soha)
