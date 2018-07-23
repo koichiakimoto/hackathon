@@ -15,7 +15,7 @@
   * [Pollseed](https://github.com/pollseed)
     * テーマ： [a](a)
   * [Gaddict](https://github.com/Gaddict)
-    * テーマ： [DataRobot使ってみた](https://github.com/gaddict)
+    * テーマ： [Puppeteerでスクレイピング](https://github.com/gaddict)
   * [sin](https://github.com/ogasawaraShinnosuke)
     * テーマ： []()
   * [kouares](https://github.com/kouares)
@@ -38,7 +38,7 @@
 * LT
 * 輪読についてディスカッション（教科書，進めるペースについてなど）
 * pollseed: 
-* Gaddict: データサイエンティストを目指すには
+* Gaddict: 不労所得のための開発
 * sin: ソフトウェアの開発
 * kouares: Kotlin
 * soha: スクレイピングフレームワーク
