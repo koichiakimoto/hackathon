@@ -6,7 +6,7 @@
 * [sin](https://github.com/ogasawaraShinnosuke)
 * [kouares](https://github.com/kouares)
 * [soha](https://github.com/soha)
-* [man](???)
+* [m君]()
 
 ## 概要
 * 日程：2018/8/28/tue 19:30 - 22:00
@@ -34,11 +34,12 @@
  * 各自のTODOリストは [こちら](https://github.com/ogasawaraShinnosuke/creator/projects/2) から更新してください
 
 ## 内容
+* 進捗どうですか？
+* スマホ・ネイティブ/WebViewについて語りたい(PWA、React Nativeの可能性）
 * 情報技術共有
-* LT
-* Androidについて
-* pollseed: 
-* Gaddict: 不労所得のための開発
-* sin: ソフトウェアの開発
-* kouares: Kotlin
-* soha: スクレイピングフレームワーク
+* 各自
+  * pollseed: 
+  * Gaddict: 不労所得のための開発
+  * sin: ソフトウェアの開発
+  * kouares: Kotlin
+  * soha: スクレイピングフレームワーク
