@@ -17,7 +17,7 @@
   * [Gaddict](https://github.com/Gaddict)
     * テーマ： [Puppeteerでスクレイピング](https://github.com/gaddict)
   * [sin](https://github.com/ogasawaraShinnosuke)
-    * テーマ： []()
+    * テーマ： [Swift入門]()
   * [kouares](https://github.com/kouares)
     * テーマ： []()
   * [soha](https://github.com/soha)
@@ -34,12 +34,13 @@
  * 各自のTODOリストは [こちら](https://github.com/ogasawaraShinnosuke/creator/projects/2) から更新してください
 
 ## 内容
+* m君の紹介
 * 進捗どうですか？
 * スマホ・ネイティブ/WebViewについて語りたい(PWA、React Nativeの可能性）
 * 情報技術共有
 * 各自
   * pollseed: 
   * Gaddict: 不労所得のための開発
-  * sin: ソフトウェアの開発
+  * sin: スマホ開発
   * kouares: Kotlin
   * soha: スクレイピングフレームワーク
