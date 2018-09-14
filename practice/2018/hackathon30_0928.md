@@ -34,12 +34,11 @@
  * 各自のTODOリストは [こちら](https://github.com/ogasawaraShinnosuke/creator/projects/2) から更新してください
 
 ## 内容
-* m君の紹介
 * 進捗どうですか？
 * 情報技術共有
 * 各自
   * pollseed: 
   * Gaddict: 不労所得のための開発
-  * sin: スマホ開発
+  * sin: 
   * kouares: Kotlin
   * soha: スクレイピングフレームワーク
