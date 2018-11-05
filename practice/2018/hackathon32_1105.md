@@ -9,7 +9,7 @@
 * [m君]()
 
 ## 概要
-* 日程：2018/11/14/fri 19:30 - 22:00
+* 日程：2018/11/14/wed 19:30 - 22:00
 * 場所：Slackでお知らせ
 * LT : 
   * [Pollseed](https://github.com/pollseed)
